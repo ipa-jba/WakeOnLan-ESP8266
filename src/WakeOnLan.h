@@ -28,8 +28,7 @@ LICENSE:
 #ifndef wakeonloan_h
 #define wakeonloan_h
 
-#include <SPI.h>
-#include <WiFiUDP.h>
+#include <WiFiUdp.h>
 
 
 class WakeOnLan {
